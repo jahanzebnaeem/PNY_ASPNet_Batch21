@@ -1,0 +1,6 @@
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+Y:\Development\Teaching\DotNet\PNY_ASPNet_Batch21\Orientation\SampleConsoleApp\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb
